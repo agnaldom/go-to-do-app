@@ -92,4 +92,4 @@ https://vkt.sh/go-mongodb-driver-cookbook/
 
 MIT License
 
-Copyright (c) 2019 Agnaldo Marinho
+Copyright (c) 2020 Agnaldo Marinho
