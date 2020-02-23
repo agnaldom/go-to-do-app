@@ -87,3 +87,9 @@ Please checkout my other articles on :link: https://schadokar.dev :tada:
 https://godoc.org/go.mongodb.org/mongo-driver/mongo  
 https://www.mongodb.com/blog/post/mongodb-go-driver-tutorial  
 https://vkt.sh/go-mongodb-driver-cookbook/   
+
+# License
+
+MIT License
+
+Copyright (c) 2019 Agnaldo Marinho
